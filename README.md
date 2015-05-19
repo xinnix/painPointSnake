@@ -8,3 +8,7 @@
 ## tech
 
 技术实现，基于h5 node angular，利用微信朋友圈进行病毒式营销。
+
+## 原型图
+
+![painPointSnake](http://ww2.sinaimg.cn/bmiddle/80c8609fjw1es9df00y1qj21930xugqb.jpg)
